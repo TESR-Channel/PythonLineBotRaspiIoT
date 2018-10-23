@@ -17,8 +17,8 @@ import urllib3
 
 app = Flask(__name__)
 
-line_bot_api = LineBotApi('yQh1VyVtqSvQck/1blc8QQ7sSxdIPNI9+CYB78XF9dUP0Ho2lGJ02rtnlaqe6aFlUeyVCszB6P6dy3GM5VgoY39OWbwmPCcljSOBcBbke6lc5ePxoaWp9pIRiC5M/hC2w/m25KnZ4MRvEOliFccGhAdB04t89/1O/w1cDnyilFU=')
-handler = WebhookHandler('2ba452b79e30fcf854be2b49785a7bd5')
+line_bot_api = LineBotApi('PpNhy1loFsQWx2Iaw5imgbwlNGWibIHuReRgrDxZgLZVyBq1AlQZgaLq5BxAuVFYPVOeOKUeNDvRzKouPDRAzEJ6ER8Hj9lZYPCtdAnRFVWFYiJMWc5wxnAy2lAahX/teOvGh8rGaLj0s8uxAJzj/QdB04t89/1O/w1cDnyilFU=')
+handler = WebhookHandler('181d1c80ab13effe16793f4e266e1426')
 
 APPID="LineBotRpi"
 KEY = "bjuWQftBs1hMHSw"
